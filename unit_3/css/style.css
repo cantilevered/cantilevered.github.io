@@ -1,0 +1,23 @@
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: bold;
+	color:#FFF;
+	text-align: left;
+}
+p {
+	font-family: Helvetica, sans-serif;
+	font-size: 16px
+	font-style: normal;
+	color: #FFF;
+	text-align: left;
+
+}
+
+body {
+    background-image: url("images/unicorn_LRG.jpg");
+    background-color: #E80C7A;
+    background-size: cover;
+
+}
