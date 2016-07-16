@@ -7,13 +7,13 @@ h1 {
 	font-style: bold;
 	color:#FFF;
 	text-align: left
-	margin-right: 10em;
-	margin-top: 3em;
-	margin-left: 1.5em;
+	margin-right: 1000px;
+	margin-left: 1em;
 }
 
 ul {
 	color: #E80C7A;
+	font-family: 'Open Sans', sans-serif;
 	text-align: left;
 }
 
