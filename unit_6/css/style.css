@@ -36,7 +36,7 @@ section {
 	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
-    display: none;
+    display: inline-block;
 }
 
 h1 {
