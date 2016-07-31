@@ -4,7 +4,8 @@
 header {
     background-image: url("http://i6.photobucket.com/albums/y239/limecrime/graphics/unicorn_LRG.jpg");
     background-color: #E80C7A;
-    background-size: cover;
+    background-size: cover
+    height 600px;
 }
 
 nav {
@@ -66,23 +67,15 @@ h1 {
     border: 1px black solid;
     padding: 2%;
     float: left;
-    width: 28%;
-}
-
-#WhatWeDo {
-	background-color: violet;
-    border: 1px black solid;
-    padding: 2%;
-    float: right;
-    width: 28%;
+    width: 48%;
 }
 
 #Services {
 	background-color: violet;
     border: 1px black solid;
     padding: 2%;
-    float: right;
-    width: 28%;
+    float: left;
+    width: 48%;
 }
 
 .clearfix:after {
