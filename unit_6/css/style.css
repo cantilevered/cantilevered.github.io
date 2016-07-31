@@ -37,9 +37,7 @@ div {
 section {
 	background-color: #FFE2B8;
     border: 1px white solid;
-    padding: 20px;}
-
-
+    padding: 20px;
 }
 
 h1 {
@@ -48,18 +46,16 @@ h1 {
 	font-style: bold;
 	color:#FFF;
 	text-align: center;
-
 }
 
 #slogan {
 	font-family: 'Raleway', sans-serif;
 	font-size: 100px;
 	font-style: bold;
-	color: #E80C7A;;
+	color: #E80C7A;
 	background-color:#FFF;
 	text-align: left;
-	padding: 10px;
-	height: 600px;
+	padding: 48px;
 }
 
 #WhoWeAre {
@@ -74,7 +70,7 @@ h1 {
 	background-color: violet;
     border: 1px black solid;
     padding: 2%;
-    float: left;
+    float: right;
     width: 48%;
 }
 
