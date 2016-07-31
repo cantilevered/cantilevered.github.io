@@ -17,6 +17,7 @@ article {
 	background-color: #E89C6C;
     border: 1px black solid;
     padding: 20px;
+    display: inline-block;
 
 }
 
@@ -57,6 +58,7 @@ h1 {
 	background-color:#FFF;
 	text-align: left;
 	padding: 10px;
+	height: 600px;
 }
 
 #WhoWeAre {
