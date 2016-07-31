@@ -5,7 +5,7 @@ header {
     background-image: url("http://i6.photobucket.com/albums/y239/limecrime/graphics/unicorn_LRG.jpg");
     background-color: #E80C7A;
     background-size: cover
-    height 30%;
+    height 600px;
 }
 
 nav {
@@ -17,7 +17,7 @@ nav {
 article {
 	background-color: #E89C6C;
     border: 1px black solid;
-    padding: 2%;
+    padding: 2%px;
 }
 
 footer{
@@ -34,9 +34,8 @@ div {
 
 section {
 	background-color: #FFE2B8;
-    border: 1px black solid;
+    border: 1px white solid;
     padding: 20px;
-    display: inline-block;
 }
 
 h1 {
@@ -96,6 +95,5 @@ p {
 	text-align: left;
 	margin-top: 3em;
 	margin-left: 1.5em;
-	margin-right: 1000px;
 }
 
